@@ -1,2 +1,2 @@
 # info2180-lab3
-This is Lab 3 for Alexander Thomas
+This is the lab for Alexander Thomas.
